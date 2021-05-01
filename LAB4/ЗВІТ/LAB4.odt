@@ -1,0 +1,1536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta><meta:generator>LibreOffice/7.1.2.2$Linux_X86_64 LibreOffice_project/10$Build-2</meta:generator><dc:date>2021-05-01T18:27:39.629964944</dc:date><meta:editing-duration>P7DT23H50M17S</meta:editing-duration><meta:editing-cycles>16</meta:editing-cycles><meta:document-statistic meta:table-count="1" meta:image-count="2" meta:object-count="0" meta:page-count="11" meta:paragraph-count="408" meta:word-count="1454" meta:character-count="10451" meta:non-whitespace-character-count="7351"/></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">17034</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">116639</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">70483</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">59378</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">25504</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">17034</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">116637</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">87515</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">36</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectFields" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectBookmarks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ContinuousEndnotes" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="HeaderSpacingBelowLastPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FrameAutowidthWithMorePara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item-map-indexed config:name="ForbiddenCharacters">
+    <config:config-item-map-entry>
+     <config:config-item config:name="Language" config:type="string">en</config:config-item>
+     <config:config-item config:name="Country" config:type="string">US</config:config-item>
+     <config:config-item config:name="Variant" config:type="string"/>
+     <config:config-item config:name="BeginLine" config:type="string"/>
+     <config:config-item config:name="EndLine" config:type="string"/>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1269319</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaLineSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">830599</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Coureier New" svg:font-family="&apos;Coureier New&apos;"/>
+  <style:font-face style:name="Times New Roman" svg:font-family="&apos;Times New Roman&apos;" style:font-family-generic="roman"/>
+  <style:font-face style:name="FreeSans1" svg:font-family="FreeSans" style:font-family-generic="swiss"/>
+  <style:font-face style:name="Courier New" svg:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="DejaVu Sans" svg:font-family="&apos;DejaVu Sans&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="FreeSans" svg:font-family="FreeSans" style:font-family-generic="system" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="3mm" draw:shadow-offset-y="3mm" draw:start-line-spacing-horizontal="2.83mm" draw:start-line-spacing-vertical="2.83mm" draw:end-line-spacing-horizontal="2.83mm" draw:end-line-spacing-vertical="2.83mm" style:flow-with-text="false"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="DejaVu Sans" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="12.51mm" style:writing-mode="page"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="DejaVu Sans" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-top="4.23mm" fo:margin-bottom="2.12mm" style:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="DejaVu Sans" style:font-family-asian="&apos;DejaVu Sans&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="FreeSans" style:font-family-complex="FreeSans" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
+   <style:paragraph-properties fo:margin-top="0mm" fo:margin-bottom="2.47mm" style:contextual-spacing="false" fo:line-height="115%"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="FreeSans1" style:font-family-complex="FreeSans" style:font-family-generic-complex="swiss"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="2.12mm" fo:margin-bottom="2.12mm" style:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="FreeSans1" style:font-family-complex="FreeSans" style:font-family-generic-complex="swiss" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="FreeSans1" style:font-family-complex="FreeSans" style:font-family-generic-complex="swiss"/>
+  </style:style>
+  <style:style style:name="Table_20_Contents" style:display-name="Table Contents" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:orphans="0" fo:widows="0" text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="Graphics" style:family="graphic">
+   <style:graphic-properties text:anchor-type="paragraph" svg:x="0mm" svg:y="0mm" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph"/>
+  </style:style>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:notes-configuration text:note-class="footnote" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="4.99mm" style:num-format="1" text:number-position="left" text:increment="5"/>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="Table3" style:family="table">
+   <style:table-properties style:width="91.81mm" table:align="left" style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="Table3.A" style:family="table-column">
+   <style:table-column-properties style:column-width="13.41mm"/>
+  </style:style>
+  <style:style style:name="Table3.B" style:family="table-column">
+   <style:table-column-properties style:column-width="78.4mm"/>
+  </style:style>
+  <style:style style:name="Table3.1" style:family="table-row">
+   <style:table-row-properties style:min-row-height="5.01mm" fo:keep-together="auto"/>
+  </style:style>
+  <style:style style:name="Table3.A1" style:family="table-cell">
+   <style:table-cell-properties style:vertical-align="middle" fo:padding-left="1.91mm" fo:padding-right="1.91mm" fo:padding-top="0mm" fo:padding-bottom="0mm" fo:border="0.5pt solid #000000" style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="Table3.3" style:family="table-row">
+   <style:table-row-properties style:min-row-height="4mm" fo:keep-together="auto"/>
+  </style:style>
+  <style:style style:name="Table3.B3" style:family="table-cell">
+   <style:table-cell-properties style:vertical-align="middle" fo:padding-left="1.91mm" fo:padding-right="1.91mm" fo:padding-top="0mm" fo:padding-bottom="0mm" fo:border-left="0.5pt solid #000000" fo:border-right="0.5pt solid #000000" fo:border-top="none" fo:border-bottom="0.5pt solid #000000" style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0mm" fo:margin-bottom="3.53mm" style:contextual-spacing="true" fo:line-height="150%" fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="14pt" fo:language="uk" fo:country="UA" officeooo:paragraph-rsid="000d9c1c" style:font-size-asian="14pt" style:font-name-complex="Times New Roman" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0mm" fo:margin-bottom="3.53mm" style:contextual-spacing="true" fo:line-height="150%" fo:text-align="end" style:justify-single-word="false"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="14pt" fo:language="uk" fo:country="UA" officeooo:paragraph-rsid="000d9c1c" style:font-size-asian="14pt" style:font-name-complex="Times New Roman" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0mm" fo:margin-bottom="3.53mm" style:contextual-spacing="true" fo:line-height="150%" fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="14pt" fo:language="uk" fo:country="UA" fo:font-weight="bold" officeooo:paragraph-rsid="000d9c1c" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-name-complex="Times New Roman" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0mm" fo:margin-bottom="3.53mm" style:contextual-spacing="true" fo:line-height="150%" fo:text-align="start" style:justify-single-word="false"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="14pt" fo:language="uk" fo:country="UA" fo:font-weight="normal" officeooo:rsid="000d9c1c" officeooo:paragraph-rsid="000d9c1c" style:font-size-asian="14pt" style:font-weight-asian="normal" style:font-name-complex="Times New Roman" style:font-size-complex="14pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0mm" fo:margin-bottom="3.53mm" style:contextual-spacing="true" fo:line-height="150%" fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-position="0% 100%" style:font-name="Times New Roman" fo:font-size="14pt" fo:language="uk" fo:country="UA" officeooo:paragraph-rsid="000d9c1c" style:font-size-asian="14pt" style:font-name-complex="Times New Roman" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0mm" fo:margin-bottom="3.53mm" style:contextual-spacing="true" fo:line-height="150%" fo:text-align="start" style:justify-single-word="false"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-position="0% 100%" style:font-name="Times New Roman" fo:font-size="14pt" fo:language="uk" fo:country="UA" fo:font-weight="normal" officeooo:rsid="000d9c1c" officeooo:paragraph-rsid="000d9c1c" style:font-size-asian="14pt" style:font-weight-asian="normal" style:font-name-complex="Times New Roman" style:font-size-complex="14pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0mm" fo:margin-bottom="3.53mm" style:contextual-spacing="true" fo:line-height="150%" fo:text-align="start" style:justify-single-word="false"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-position="0% 100%" style:font-name="Times New Roman" fo:font-size="14pt" fo:language="uk" fo:country="UA" fo:font-weight="normal" officeooo:rsid="000d9c1c" officeooo:paragraph-rsid="000e2e60" style:font-size-asian="14pt" style:font-weight-asian="normal" style:font-name-complex="Times New Roman" style:font-size-complex="14pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0mm" fo:margin-bottom="3.53mm" style:contextual-spacing="true" fo:line-height="150%" fo:text-align="start" style:justify-single-word="false"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-position="0% 100%" style:font-name="Times New Roman" fo:font-size="14pt" fo:language="uk" fo:country="UA" fo:font-weight="normal" officeooo:rsid="000e2e60" officeooo:paragraph-rsid="000e2e60" style:font-size-asian="14pt" style:font-weight-asian="normal" style:font-name-complex="Times New Roman" style:font-size-complex="14pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0mm" fo:margin-bottom="3.53mm" style:contextual-spacing="true" fo:line-height="150%" fo:text-align="start" style:justify-single-word="false"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-position="0% 100%" style:font-name="Times New Roman" fo:font-size="14pt" fo:language="uk" fo:country="UA" fo:font-weight="normal" officeooo:rsid="000e2e60" officeooo:paragraph-rsid="000e2e60" fo:background-color="transparent" style:font-size-asian="14pt" style:font-weight-asian="normal" style:font-name-complex="Times New Roman" style:font-size-complex="14pt" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0mm" fo:margin-bottom="3.53mm" style:contextual-spacing="true" fo:line-height="150%" fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties style:font-name="Times New Roman" officeooo:paragraph-rsid="000d9c1c"/>
+  </style:style>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0mm" fo:margin-bottom="3.53mm" style:contextual-spacing="true" fo:line-height="150%" fo:text-align="start" style:justify-single-word="false" fo:break-before="page"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="14pt" fo:language="uk" fo:country="UA" fo:font-weight="bold" officeooo:rsid="000d9c1c" officeooo:paragraph-rsid="000d9c1c" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-name-complex="Times New Roman" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0mm" fo:margin-bottom="3.53mm" style:contextual-spacing="true" fo:line-height="150%" fo:text-align="start" style:justify-single-word="false" fo:break-before="page"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-position="0% 100%" style:font-name="Times New Roman" fo:font-size="14pt" fo:language="uk" fo:country="UA" fo:font-weight="normal" officeooo:rsid="000e2e60" officeooo:paragraph-rsid="000e2e60" fo:background-color="transparent" style:font-size-asian="14pt" style:font-weight-asian="normal" style:font-name-complex="Times New Roman" style:font-size-complex="14pt" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0mm" fo:margin-bottom="3.53mm" style:contextual-spacing="true" fo:line-height="150%" fo:text-align="center" style:justify-single-word="false" style:page-number="auto"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-position="0% 100%" style:font-name="Times New Roman" fo:font-size="14pt" fo:language="uk" fo:country="UA" officeooo:paragraph-rsid="000d9c1c" style:font-size-asian="14pt" style:font-name-complex="Times New Roman" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="115.87mm" fo:margin-right="0mm" fo:margin-top="0mm" fo:margin-bottom="3.53mm" style:contextual-spacing="true" fo:line-height="150%" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0mm" style:auto-text-indent="false" fo:background-color="transparent">
+    <style:tab-stops>
+     <style:tab-stop style:position="133.26mm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="14pt" fo:language="uk" fo:country="UA" officeooo:paragraph-rsid="000d9c1c" style:font-size-asian="14pt" style:font-name-complex="Times New Roman" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="115.87mm" fo:margin-right="0mm" fo:margin-top="0mm" fo:margin-bottom="3.53mm" style:contextual-spacing="true" fo:line-height="150%" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0mm" style:auto-text-indent="false" fo:background-color="transparent">
+    <style:tab-stops>
+     <style:tab-stop style:position="133.26mm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Times New Roman" officeooo:paragraph-rsid="000d9c1c"/>
+  </style:style>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="115.87mm" fo:margin-right="0mm" fo:margin-top="0mm" fo:margin-bottom="3.53mm" style:contextual-spacing="true" fo:line-height="150%" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0mm" style:auto-text-indent="false" style:page-number="auto" fo:background-color="transparent">
+    <style:tab-stops>
+     <style:tab-stop style:position="133.26mm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="14pt" fo:language="uk" fo:country="UA" officeooo:paragraph-rsid="000d9c1c" style:font-size-asian="14pt" style:font-name-complex="Times New Roman" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0mm" fo:margin-right="0mm" fo:margin-top="0mm" fo:margin-bottom="3.53mm" style:contextual-spacing="true" fo:line-height="150%" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0mm" style:auto-text-indent="false" fo:background-color="transparent">
+    <style:tab-stops>
+     <style:tab-stop style:position="133.26mm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="14pt" fo:language="uk" fo:country="UA" officeooo:rsid="0010aa2a" officeooo:paragraph-rsid="000d9c1c" style:font-size-asian="14pt" style:font-name-complex="Times New Roman" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false" style:text-autospace="none"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="11pt" fo:language="uk" fo:country="UA" officeooo:paragraph-rsid="000e2e60" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
+  </style:style>
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false" style:text-autospace="none"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="11pt" fo:language="uk" fo:country="UA" officeooo:rsid="000e2e60" officeooo:paragraph-rsid="000e2e60" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
+  </style:style>
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false" style:text-autospace="none"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Times New Roman" fo:font-size="11pt" fo:language="uk" fo:country="UA" fo:font-style="italic" officeooo:paragraph-rsid="000e2e60" style:font-size-asian="11pt" style:font-style-asian="italic" style:font-size-complex="11pt"/>
+  </style:style>
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false" style:text-autospace="none"/>
+   <style:text-properties style:font-name="Times New Roman" officeooo:paragraph-rsid="000e2e60"/>
+  </style:style>
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0mm" fo:margin-right="0mm" fo:margin-top="0mm" fo:margin-bottom="3.53mm" style:contextual-spacing="true" fo:line-height="150%" fo:text-align="start" style:justify-single-word="false" fo:text-indent="12.49mm" style:auto-text-indent="false" style:text-autospace="none"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-position="0% 100%" style:font-name="Times New Roman" fo:font-size="10pt" fo:language="uk" fo:country="UA" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="000d9c1c" officeooo:paragraph-rsid="000e2e60" style:font-size-asian="10pt" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-name-complex="Times New Roman" style:font-size-complex="10pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="Standard">
+   <style:paragraph-properties fo:margin-top="0mm" fo:margin-bottom="3.53mm" style:contextual-spacing="true" fo:line-height="150%" fo:text-align="center" style:justify-single-word="false" style:page-number="auto"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-position="0% 100%" style:font-name="Times New Roman" fo:font-size="14pt" fo:language="uk" fo:country="UA" officeooo:paragraph-rsid="000d9c1c" style:font-size-asian="14pt" style:font-name-complex="Times New Roman" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0mm" fo:margin-bottom="3.53mm" style:contextual-spacing="true" fo:line-height="150%" fo:text-align="start" style:justify-single-word="false" fo:break-before="page"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-position="0% 100%" style:font-name="Times New Roman" fo:font-size="14pt" fo:language="uk" fo:country="UA" fo:font-weight="bold" officeooo:rsid="00135e47" officeooo:paragraph-rsid="00135e47" fo:background-color="transparent" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-name-complex="Times New Roman" style:font-size-complex="14pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0mm" fo:margin-bottom="3.53mm" style:contextual-spacing="true" fo:line-height="150%" fo:text-align="start" style:justify-single-word="false"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-position="0% 100%" style:font-name="Times New Roman" fo:font-size="14pt" fo:language="uk" fo:country="UA" fo:font-weight="bold" officeooo:rsid="00135e47" officeooo:paragraph-rsid="00135e47" fo:background-color="transparent" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-name-complex="Times New Roman" style:font-size-complex="14pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0mm" fo:margin-bottom="3.53mm" style:contextual-spacing="true" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-position="0% 100%" style:font-name="Coureier New" fo:font-size="11pt" fo:language="uk" fo:country="UA" fo:font-weight="normal" officeooo:rsid="00135e47" officeooo:paragraph-rsid="00135e47" fo:background-color="transparent" style:font-size-asian="11pt" style:font-weight-asian="normal" style:font-name-complex="Times New Roman" style:font-size-complex="11pt" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0mm" fo:margin-bottom="3.53mm" style:contextual-spacing="true" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-position="0% 100%" style:font-name="Courier New" fo:font-size="11pt" fo:language="uk" fo:country="UA" fo:font-weight="bold" officeooo:rsid="00135e47" officeooo:paragraph-rsid="00135e47" fo:background-color="transparent" style:font-size-asian="11pt" style:font-weight-asian="bold" style:font-name-complex="Times New Roman" style:font-size-complex="11pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0mm" fo:margin-bottom="3.53mm" style:contextual-spacing="true" fo:line-height="150%" fo:text-align="start" style:justify-single-word="false"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-position="0% 100%" style:font-name="Courier New" fo:font-size="11pt" fo:language="uk" fo:country="UA" fo:font-weight="normal" officeooo:rsid="00135e47" officeooo:paragraph-rsid="00135e47" fo:background-color="transparent" style:font-size-asian="11pt" style:font-weight-asian="normal" style:font-name-complex="Times New Roman" style:font-size-complex="11pt" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0mm" fo:margin-bottom="3.53mm" style:contextual-spacing="true" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-position="0% 100%" style:font-name="Courier New" fo:font-size="11pt" fo:language="uk" fo:country="UA" fo:font-weight="normal" officeooo:rsid="00135e47" officeooo:paragraph-rsid="00135e47" fo:background-color="transparent" style:font-size-asian="11pt" style:font-weight-asian="normal" style:font-name-complex="Times New Roman" style:font-size-complex="11pt" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P30" style:family="paragraph">
+   <style:paragraph-properties fo:text-align="justify"/>
+  </style:style>
+  <style:style style:name="P31" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
+   <style:paragraph-properties fo:text-align="justify"/>
+  </style:style>
+  <style:style style:name="P32" style:family="paragraph">
+   <style:paragraph-properties fo:text-align="center"/>
+  </style:style>
+  <style:style style:name="P33" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
+   <style:paragraph-properties fo:text-align="justify" style:writing-mode="lr-tb"/>
+   <style:text-properties fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-size="11pt" fo:language="uk" fo:country="UA" fo:font-style="italic" style:font-size-asian="11pt" style:font-style-asian="italic" style:font-size-complex="11pt"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-size="11pt" fo:font-style="italic" style:font-size-asian="11pt" style:font-style-asian="italic" style:font-size-complex="11pt"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-style="italic" style:font-size-asian="11pt" style:font-style-asian="italic" style:font-size-complex="11pt"/>
+  </style:style>
+  <style:style style:name="T4" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-size="14pt" fo:language="uk" fo:country="UA" style:font-size-asian="14pt" style:font-name-complex="Times New Roman" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="T5" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-size="14pt" fo:language="uk" fo:country="UA" officeooo:rsid="000eafb0" style:font-size-asian="14pt" style:font-name-complex="Times New Roman" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="T6" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-size="14pt" fo:language="uk" fo:country="UA" officeooo:rsid="0010aa2a" style:font-size-asian="14pt" style:font-name-complex="Times New Roman" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="T7" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-size="14pt" fo:language="uk" fo:country="UA" fo:font-weight="normal" officeooo:rsid="000eafb0" style:font-size-asian="14pt" style:font-weight-asian="normal" style:font-name-complex="Times New Roman" style:font-size-complex="14pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T8" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-size="14pt" fo:language="uk" fo:country="UA" style:font-name-asian="Times New Roman" style:font-size-asian="14pt" style:font-name-complex="Times New Roman" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="T9" style:family="text">
+   <style:text-properties style:text-position="sub 58%"/>
+  </style:style>
+  <style:style style:name="T10" style:family="text">
+   <style:text-properties style:text-position="sub 58%" officeooo:rsid="000e2fe3"/>
+  </style:style>
+  <style:style style:name="T11" style:family="text">
+   <style:text-properties style:text-position="0% 100%"/>
+  </style:style>
+  <style:style style:name="T12" style:family="text">
+   <style:text-properties style:text-position="0% 100%" fo:background-color="#bfbfbf" loext:char-shading-value="0"/>
+  </style:style>
+  <style:style style:name="T13" style:family="text">
+   <style:text-properties fo:background-color="#bfbfbf" loext:char-shading-value="0"/>
+  </style:style>
+  <style:style style:name="T14" style:family="text">
+   <style:text-properties officeooo:rsid="000dddda" fo:background-color="#bfbfbf" loext:char-shading-value="0"/>
+  </style:style>
+  <style:style style:name="T15" style:family="text">
+   <style:text-properties fo:background-color="#bfbfbf" loext:char-shading-value="0" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T16" style:family="text">
+   <style:text-properties officeooo:rsid="000e2e60"/>
+  </style:style>
+  <style:style style:name="T17" style:family="text">
+   <style:text-properties fo:font-size="11pt" style:font-size-asian="11pt" style:font-size-complex="11pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T18" style:family="text">
+   <style:text-properties style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T19" style:family="text">
+   <style:text-properties officeooo:rsid="000e2e60" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T20" style:family="text">
+   <style:text-properties fo:background-color="transparent" loext:char-shading-value="0" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T21" style:family="text">
+   <style:text-properties fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="T22" style:family="text">
+   <style:text-properties fo:font-size="14pt" fo:font-weight="bold" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Graphics">
+   <style:graphic-properties style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" style:mirror="none" fo:clip="rect(0mm, 0mm, 0mm, 0mm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
+  </style:style>
+  <style:style style:name="fr2" style:family="graphic" style:parent-style-name="Graphics">
+   <style:graphic-properties fo:margin-left="3.18mm" fo:margin-right="3.18mm" fo:margin-top="0mm" fo:margin-bottom="0mm" style:run-through="foreground" style:wrap="parallel" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="true" style:wrap-contour-mode="outside" style:vertical-pos="middle" style:vertical-rel="baseline" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" fo:background-color="transparent" draw:fill="none" draw:fill-color="#ffffff" fo:padding="0mm" fo:border="none" style:mirror="none" fo:clip="rect(0mm, 0mm, 0mm, 0mm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
+  </style:style>
+  <style:style style:name="gr1" style:family="graphic">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" fo:min-height="5.86mm" style:run-through="foreground" style:wrap="run-through" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="from-left" style:horizontal-rel="paragraph"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr2" style:family="graphic">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" fo:min-height="64.35mm" style:run-through="foreground" style:wrap="run-through" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="from-left" style:horizontal-rel="paragraph"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="215.9mm" fo:page-height="279.4mm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="20mm" fo:margin-bottom="20mm" fo:margin-left="20mm" fo:margin-right="20mm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="7.06mm" style:layout-grid-ruby-height="3.53mm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0mm">
+    <style:footnote-sep style:width="0.18mm" style:distance-before-sep="1.01mm" style:distance-after-sep="1.01mm" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style/>
+  </style:page-layout>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1"/>
+ </office:master-styles>
+ <office:body>
+  <office:text text:use-soft-page-breaks="true">
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
+   </text:sequence-decls>
+   <text:p text:style-name="P23">Міністерство освіти та науки України</text:p>
+   <text:p text:style-name="P5">Національний технічний університет України</text:p>
+   <text:p text:style-name="P5">«Київський політехнічний інститут ім. Ігоря Сікорського»</text:p>
+   <text:p text:style-name="P5">Факультет інформатики і обчислювальної техніки</text:p>
+   <text:p text:style-name="P5">Кафедра обчислювальної техніки</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P3">Лабораторна робота №<text:span text:style-name="T16">4</text:span></text:p>
+   <text:p text:style-name="P10"><text:span text:style-name="T4">з </text:span><text:span text:style-name="T5">курсу</text:span><text:span text:style-name="T4"> «</text:span><text:span text:style-name="T7">Архітектура комп’ютерів – 3</text:span><text:span text:style-name="T4">»</text:span></text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P16">Виконав:</text:p>
+   <text:p text:style-name="P15"><text:span text:style-name="T4">студент </text:span><text:span text:style-name="T6">3</text:span><text:span text:style-name="T4"> курсу ФІОТ</text:span></text:p>
+   <text:p text:style-name="P15"><text:span text:style-name="T8"><text:s/></text:span><text:span text:style-name="T4">групи ІВ-81 :</text:span></text:p>
+   <text:p text:style-name="P14">Бухтій О. В. , 8106</text:p>
+   <text:p text:style-name="P17"/>
+   <text:p text:style-name="P2"/>
+   <text:p text:style-name="P2"/>
+   <text:p text:style-name="P2"/>
+   <text:p text:style-name="P2"/>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1">Київ-2020</text:p>
+   <text:p text:style-name="P11">Виконання роботи:</text:p>
+   <text:p text:style-name="P4">8106<text:span text:style-name="T10">10</text:span><text:span text:style-name="T11">=1111110</text:span><text:span text:style-name="T12">101010</text:span><text:span text:style-name="T9">2</text:span></text:p>
+   <text:p text:style-name="P6">(<text:span text:style-name="T13">0010</text:span>) F = 2(X1 + X2 + X3) - (X4 + 1)/4</text:p>
+   <text:p text:style-name="P6">(<text:span text:style-name="T13">10</text:span>) <text:s text:c="2"/>X1 = 18, X2 = -9, X3 = 23, X4 = 11</text:p>
+   <table:table table:name="Table3" table:style-name="Table3">
+    <table:table-column table:style-name="Table3.A"/>
+    <table:table-column table:style-name="Table3.B"/>
+    <table:table-row table:style-name="Table3.1">
+     <table:table-cell table:style-name="Table3.A1" office:value-type="string">
+      <text:p text:style-name="P18">Крок</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table3.A1" office:value-type="string">
+      <text:p text:style-name="P18">Перевірити умови </text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table3.1">
+     <table:table-cell table:style-name="Table3.A1" office:value-type="string">
+      <text:p text:style-name="P18">1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table3.A1" office:value-type="string">
+      <text:p text:style-name="P21"><text:span text:style-name="T1">Перевірити ознаку результату </text:span><text:span text:style-name="T2">(</text:span><text:span text:style-name="T3">F</text:span><text:span text:style-name="T2">) </text:span><text:span text:style-name="T1">переповнення за межі розрядної сітки, якщо було переповнення виконати корекцію результату шляхом зсуву результату праворуч і запису значення переповнення в старший розряд, якщо ні, перейти на крок 2</text:span></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table3.3">
+     <table:table-cell table:style-name="Table3.A1" office:value-type="string">
+      <text:p text:style-name="P18">2</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table3.B3" office:value-type="string">
+      <text:p text:style-name="P21"><text:span text:style-name="T2">Перевірити </text:span><text:span text:style-name="T1">на рівність нулю молодшої частини результату </text:span><text:span text:style-name="T2">[</text:span><text:span text:style-name="T3">R</text:span><text:span text:style-name="T1">у</text:span><text:span text:style-name="T2">] = 0</text:span><text:span text:style-name="T1"> (якщо так перейти на крок 3, інакше виконати крок 4</text:span></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table3.3">
+     <table:table-cell table:style-name="Table3.A1" office:value-type="string">
+      <text:p text:style-name="P18">3</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table3.B3" office:value-type="string">
+      <text:p text:style-name="P21"><text:span text:style-name="T1">Записати номер залікової книжки в старші біти молодшої частини числа (наприклад значення </text:span><text:span text:style-name="T2">9301 </text:span><text:span text:style-name="T1">перевести в двійкову систему числення)</text:span><text:span text:style-name="T2"> [</text:span><text:span text:style-name="T3">R</text:span><text:span text:style-name="T1">у</text:span><text:span text:style-name="T2">]:=№ЗК</text:span><text:span text:style-name="T1">, перейти на крок 4</text:span></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table3.3">
+     <table:table-cell table:style-name="Table3.A1" office:value-type="string">
+      <text:p text:style-name="P18">4</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table3.B3" office:value-type="string">
+      <text:p text:style-name="P21"><text:span text:style-name="T1">Додати до старшої частини результату номер залікової книжки (наприклад значення </text:span><text:span text:style-name="T2">9301 </text:span><text:span text:style-name="T1">подане в двійковій системі числення, </text:span><text:span text:style-name="T2">[</text:span><text:span text:style-name="T3">R</text:span><text:span text:style-name="T1">х</text:span><text:span text:style-name="T2">];=[</text:span><text:span text:style-name="T3">R</text:span><text:span text:style-name="T1">х</text:span><text:span text:style-name="T2">]+№ЗК</text:span><text:span text:style-name="T1">) перейти на крок 5</text:span></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table3.3">
+     <table:table-cell table:style-name="Table3.A1" office:value-type="string">
+      <text:p text:style-name="P18">5</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table3.A1" office:value-type="string">
+      <text:p text:style-name="P21"><text:span text:style-name="T1">Визначити, чи є порушення нормалізації ліворуч (знакові розряди не збігаються), вважаємо, що результат поданий в модифікованому коді – два старші розряди старшої частини результату </text:span><text:span text:style-name="T2">[</text:span><text:span text:style-name="T3">Rx</text:span><text:span text:style-name="T2">]</text:span><text:span text:style-name="T1">- знакові</text:span></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table3.3">
+     <table:table-cell table:style-name="Table3.A1" office:value-type="string">
+      <text:p text:style-name="P18">6</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table3.A1" office:value-type="string">
+      <text:p text:style-name="P20">Виконати корекцію результату шляхом зсуву праворуч на один розряд</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table3.3">
+     <table:table-cell table:style-name="Table3.A1" office:value-type="string">
+      <text:p text:style-name="P19">7</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table3.A1" office:value-type="string">
+      <text:p text:style-name="P20">Перевірити ознаку переповнення в знакові розряди, якщо немає записати результат в пам’ять.</text:p>
+     </table:table-cell>
+    </table:table-row>
+   </table:table>
+   <text:p text:style-name="P22">Алгоритм визначення коректності результату</text:p>
+   <text:p text:style-name="P7"/>
+   <text:p text:style-name="P7">(<text:span text:style-name="T14">100</text:span>) <text:span text:style-name="T18">Номер точки переходу на підпрограму</text:span><text:span text:style-name="T19">: V</text:span></text:p>
+   <text:p text:style-name="P8"><text:span text:style-name="T18">(</text:span><text:span text:style-name="T15">10</text:span><text:span text:style-name="T18">) <text:s text:c="2"/>Номер точки переходу на підпрограму:</text:span><text:span text:style-name="T17"> </text:span><text:span text:style-name="T18">XI</text:span></text:p>
+   <text:p text:style-name="P8"><text:span text:style-name="T18">(</text:span><text:span text:style-name="T15">00</text:span><text:span text:style-name="T20">) <text:s text:c="2"/>Ознаки результату/умови переходу: Z=1, N=0, C=1</text:span></text:p>
+   <text:p text:style-name="P9"/>
+   <text:p text:style-name="P24"><text:tab/>Алгоритм 1 завдання :<text:tab/><text:tab/><text:tab/><text:tab/>Висновок :<text:tab/><text:tab/><text:tab/></text:p>
+   <text:p text:style-name="P25"><draw:frame text:anchor-type="paragraph" draw:z-index="1" draw:name="Shape1" draw:style-name="gr2" draw:text-style-name="P33" svg:width="94.99mm" svg:height="64.35mm" svg:x="72.99mm" svg:y="7.14mm">
+     <draw:text-box>
+      <text:p text:style-name="P30"><text:span text:style-name="T21"><text:tab/></text:span><text:span text:style-name="T21">В цілому лабораторна робота </text:span><text:span text:style-name="T21">ускладнена тільки тим що ми працюємо з </text:span><text:span text:style-name="T21">подвійним словом і потрібно виконувати </text:span><text:span text:style-name="T21">операції над двома регістрами як над одним </text:span><text:span text:style-name="T21">тож код виглядає не зовсім чудово , але </text:span><text:span text:style-name="T21">логіка зберігається тож і результат виходить </text:span><text:span text:style-name="T21">очікуваним. </text:span></text:p>
+      <text:p text:style-name="P30"><text:span text:style-name="T21"/></text:p>
+      <text:p text:style-name="P30"><text:span text:style-name="T21"/></text:p>
+      <text:p text:style-name="P32"><text:span text:style-name="T22">Скріни :</text:span></text:p>
+     </draw:text-box>
+    </draw:frame><draw:frame text:anchor-type="paragraph" draw:z-index="3" draw:name="Shape2" draw:style-name="gr1" draw:text-style-name="P31" svg:width="108.31mm" svg:height="14.63mm" svg:x="68.37mm" svg:y="108.2mm">
+     <draw:text-box>
+      <text:p text:style-name="P30">Результат виконання при використанні значень з варіанту.<text:line-break/>(в r2, r3 зберігався перше введене число, туди ж і збережено результат обчислень)</text:p>
+     </draw:text-box>
+    </draw:frame><text:tab/><draw:frame draw:style-name="fr2" draw:name="Рисунок 12" text:anchor-type="as-char" svg:width="35.98mm" svg:height="217.82mm" draw:z-index="0"><draw:image draw:mime-type="image/png">
+      <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAJoAAAOkCAYAAABeZy1XAAAHj3RFWHRteGZpbGUAJTNDbXhm
+       aWxlJTIwaG9zdCUzRCUyMmFwcC5kaWFncmFtcy5uZXQlMjIlMjBtb2RpZmllZCUzRCUyMjIw
+       MjEtMDQtMjhUMjAlM0EyNCUzQTA0LjU4M1olMjIlMjBhZ2VudCUzRCUyMjUuMCUyMChXaW5k
+       b3dzJTIwTlQlMjAxMC4wJTNCJTIwV2luNjQlM0IlMjB4NjQpJTIwQXBwbGVXZWJLaXQlMkY1
+       MzcuMzYlMjAoS0hUTUwlMkMlMjBsaWtlJTIwR2Vja28pJTIwQ2hyb21lJTJGOTAuMC40NDMw
+       LjkzJTIwU2FmYXJpJTJGNTM3LjM2JTIyJTIwZXRhZyUzRCUyMjFPbWk4UjEySGxOOWRKUEJv
+       S1RjJTIyJTIwdmVyc2lvbiUzRCUyMjE0LjYuMyUyMiUyMHR5cGUlM0QlMjJkZXZpY2UlMjIl
+       M0UlM0NkaWFncmFtJTIwaWQlM0QlMjI2Y2dUdTV2R0k4NzFrVzgyeUZfbyUyMiUyMG5hbWUl
+       M0QlMjJQYWdlLTElMjIlM0U1VnBiazVvd0ZQNDF6TFFQT3BCd2tjZFZkOTEyZXB2ZG1YYjcx
+       TWxJQ3V5Z3NURXE5dGMzUUFBRFVlbXVnczYlMkJZSEpJNEhETzkzMjVxY0hSTEo1UXRBZyUy
+       QkV3OUhHdEM5V0lOakRRRERnVHIlMkZTU3piek9MYVRtYndhZWlKUnFYaE1meUxoVkgwODFl
+       aGg1ZFNRMFpJeE1LRmJKeVMlMkJSeFBtV1JEbEpLTjNPdzNpZVMzTHBDUGE0YkhLWXJxMWgl
+       MkJoeDRMTU9nQk9hYiUyRkhvUiUyRmtielpzTjdzelEzbGo4U1hMQUhsa3MyT0N0eG9jVVVK
+       WVZwckZJeHdsd2N2amt2VzcyM08zY0l6aU9XdlNZZk1obnJqSWlwYlc0MTJBJTJGUFZrTXZy
+       WXM0UnZiSnQlMkZNUGI0OTRzcW9Td2dQcG1qNkxhMERpbFp6VDJjUEZYbnRiTE5KMElXM0do
+       dzR6Tm1iQ3VTaVZhTWNGUEFacEc0eXgybTI2ZWtmOSUyRktxeiUyRkY0OUxLT0pacVcxSExm
+       RTBjM0JzQ1lWcVNGWjJLVnQlMkZIM2hxc3pQSFQlMkZkMkslMkZubWUzVDklMkZEWHBRUUFs
+       Ukg3TUQ4VEdLUkhHRVl6TEQzQiUyRmVqJTJCSUlzWEF0JTJCNEVFMVB5aVhaa05YaEFKVVNm
+       bmtKTnJGSzNFbXpSZ1I5emQ0WEtCNXJ6c0oyV054OGE5UzY3RFc0M0hkJTJCQ2taVDB0Zzl6
+       T3J6ZDViJTJCNk05SUFxQk1vRUo5bmFCQ0hEand1VXhuUERXUzRuRTlHcFNMUUZlVFdjN1RJ
+       Q21NWHpGVmxhWThwd3ZHT3FCMXJjaFphSXhhYmtvSkVUSzlqaG42MmZLUmRtODF6Y0pKRjM3
+       VFRtNCUyRlJxcGJtdzAlMkJ2b2lyTmdnNzRRREtIbUEwZHZMeTlxZ2c3ZXFJSTVUUlhNNlZM
+       Q25CcHRIaWFKUVlNM2FWVlBxOE9IQ2F5bDhRamk1UnllQXQybVdVRTNCQXAwV3dwMG0lMkJk
+       U0hVTWxPJTJCM0RmVzkwZDlHbiUyRmdDb2hQd3I0Q2k2ZmlNaDk2VkluZ21xMG1RYmxhUmtq
+       Qkw5S25rcEhIbEZxdXpMVHRWUlFURVVjeUoxUSUyQnZVT1gwZFIlMkJyVHBJZUpsUW5NTzE1
+       NjM2ZmRhMHR0NUxUTmhpUG4lMkJiUmxjTzJBUFRrT20ycUw0MWFTa25IbWZOcGlYUVBFcThP
+       bm94byUyQmM1bHNCZUxGMHZ1S0pvY3ZZb0xiVUxyTnkxSnVWd0Zya01HYUYzb0p4dmV2aXZU
+       anE2S3pLSGRCJTJGamFVJTJCOWZYTCUyRkZEajZMNDQ1Tkx3UDBDd25qU014UmhzJTJGS3dj
+       V2VIUmkxczdVJTJCbW5VcllMTlZTOFZ5VGFYWFk2bUZwUXczaWtPMklBYSUyRjkzTGxUU2tG
+       U3laVmdSMEhNZ1NRaGZWMTNqOGhJV3Z1R2FjaWpodW4lMkZhSXN5YWxaZFdnNkJzbjFwT2VT
+       MVNsbTRPZUtESm5qZnI0OE8zYTg1elVHTE5GRnZHSFJDRXlWNmppSjIlMkY1NXRrNTBSWFoy
+       Ymt5UDBrSmRITmhRcnV5VlB4diUyRnZIalllSjJ1d1ZZVCUyRiUyQkE1dGZzN1RjSkNFWjRP
+       eGVYMXp2OVBBWDIlMkJLZjlBcCUyRnZXR0JJQVNBY0RsRXNDVUNHQTBYZUNmandGdjRIRHZB
+       TENiTUFCMnlnRFFrQUdteEFCNHVReVFod0NnZDg0QXUyTUdtRGFvVE4lMkZUczdnWFR0OVBR
+       NDZtMjd4dG5Sc2Q5UElvTnl5SkclMkJibGNrTWVIWW9EMGU2NDRiN1YwVUZ4Y3JwJTJGRGRr
+       WkFScWZuTmJudVM5WXhiNE8zUFdUVTlYMCUyRjBTcldGNHQlMkZ6U1Y3YkNYZnoyRHQlMkY4
+       QSUzQyUyRmRpYWdyYW0lM0UlM0MlMkZteGZpbGUlM0V5xoOUAAAgAElEQVR4Xu2dD3QV1Z3H
+       f3Bq0lCjxw302MJRiG3T3VZQqj1uQ7orqxvwT/9g21iT1FbKoks2NiiliAlIRKQgqTlBZSm1
+       NqQ13UrbFYVsXdxtEo+tLhpauqRrA3Jg7TZkXcWSTerCnt9d7tt5w7w3d+beuW/em++c45G8
+       d++dez/3M797Z97M3AmnTp06RTncXn31VXrhhRdo3759NDg4SIcOHaLf/va39J//+Z904sQJ
+       uvbaa+nJJ5/MYQ2j3fX1119PTz31FE2aNIn+6I/+iM4//3yaPn06VVRU0MyZM+nyyy+nCy+8
+       MNpKWCh9Qi5Ee+aZZ2jnzp30k5/8hIaHh+mKK66gSy+9lP74j/+YLrroInrve98roJeUlFhA
+       EI9djI6OioPr3//93+k3v/kN/eu//iu99NJL9Pzzz9OUKVPo6quvpuuuu46uuuqqeFQ4YC2s
+       icaR6tFHH6Xt27dTWVkZfepTn6L58+cLwbBlJ8DC7dq1i370ox/RyMgI1dXV0Ze+9CUR+fJl
+       i1w0PjK/8Y1v0GOPPUaLFy8WgC655JJ84RO7er788svigN2yZQvdfPPN9JWvfEWMBHHfIhPt
+       rbfeonvuuYc6Ojpo+fLldMcdd1BpaWnceeRN/Y4fP04PPPAArV+/nhoaGmjVqlV09tlnx7b+
+       kYjW3d1NX/3qV+maa66h1tZWmjx5cmwB5HvFjh07Rs3NzfT000/T17/+daqpqYllk4yLxkfX
+       nj176MEHHxQTWGx2CPCJ1e23305z584Vo0jcNmOi8ZkSz7/e97730Te/+U2aOHFi3Npa8PU5
+       efIkffnLX6ZXXnlFzOP4DD4umxHR+BScQ/aSJUvEkIkttwR4CN28eTPxFIYvHcVh0xbtpz/9
+       KX3yk58UQ+UXvvCFOLQJdSCi73znO2Io/fGPf0wf//jHc85ES7QXX3yRqqurxdFz44035rwx
+       qEA6gccff1yMMj09PXTZZZflFE9o0fgK9p//+Z+LSxcLFy7MaSOw88wEtm3bJi6B/NM//ZP4
+       xSVXW2jR+Ko+j/98/QZbvAnw9UyeR/OvC7naQol2991304EDB+gHP/hBruqN/QYk8JnPfIY+
+       +MEP0r333hswp5nkgUV79tlnxRnmr371K1yINdMHVkrhC7t/8id/Is5Er7zySiv7dO4ksGgf
+       +9jH6LbbbqP6+nrrlcUO9Qh0dnbSww8/TM8995xeQSFyBxLtoYceEveG5XKsD9FGZHEQ4Lk1
+       3wP313/911a5BBJtxowZ1NXVRRzVsOUnAY5mtbW1dPDgQasNUBbtkUceEddjfvjDH1qtIHZm
+       nsCnP/1pcf3z1ltvNV94hhKVRfvIRz5C999/P34ot9Y10e2If4D/2te+Rv/yL/8S3U5cJSuJ
+       xj8z8Zj+y1/+0lrFsKNoCXz4wx8mnnPb+nlKSbSmpiZxDz/f94StMAjwfYL8jEJbW5uVBimJ
+       9oEPfICeeOIJuvjii61UCjuJnsAvfvELuuGGG+jXv/519DsjIl/R+J7/efPmET8Wh62wCPBj
+       fLt377byzIGvaN/+9rfFY3F8WQNbYRHgyxx8F/QXv/jFyBvmKxo/ZXPBBRfQ0qVLI68MdmCX
+       wKZNm+jw4cPiKbWoN1/ReNhk2fj/cdo4wvLzje5t1qxZ4vc8ftIbW3YCPGyyZPz/qDdf0fiZ
+       QX5wNW4dJ4dyDv9y46e9+bYlvj8ubvWNuiPDlM+voOAHuXkeHvXmKxo/VT40NETnnntu1HUJ
+       VL6KaCweX5rhh2156+vrE7fKrFy5ktauXSuemGfYq1evFk8O8d/OSCmjI99J7I6e/DA0XxrY
+       uHEjtbS0iPL5KXwW3yk8P2rIn/GlocrKykBtjDrxG2+8QeXl5eLp96g3X9GKiopobGyMJkyY
+       EHVdApWvIhpfKzp69KgQYu/eveK2ZpaOnxDyEo3vseM8XDZLx//mTV4/5M/5oHP+zXdE8Od8
+       Gw7fPsW3tc+ePTsVWVlS3pyRN1BDI0zM7/cpLi6m8fHxCPfyf0VnFe3tt9+ms846i3L8wiFP
+       CH6i8QkMRzO+nYkjiYxu/K4PfpdFpojm3JmXWE7RWESOCFIiKeadd94pROOHdlhEua/IezPE
+       DjiA2Ojfgo1oXkMWizBt2jT62c9+lhLQOXTyq6OcQy3325o1azwjmhS3qqoqJZoUk0Xjcvj2
+       6TifmMQmojHofJ2jZYpoLAY/EcTD3MDAgIgBfCcDS8JnX729vWKo5Vdm6Ua0m266ib773e/G
+       9uQkVnO0fD7r9JqjuSOMM6I5ReOXAPKQyMOuzhyNReYnkfgBkbi97y1WZ51xvo7mnmS7L294
+       nXW6z/ycosny+L47jnJ8yzrfTZwpwnF6ljnbWSdfZnHP5UJMpSLJEqvraPhlIJI+jkWhsfpl
+       AL91xsKJSCoRq986cfdGJH0ci0JjdfcGE8H9aLHwwmglYnc/GrcOd9ga7eNYFBbLO2zxzEAs
+       3DBaiVg+M8AtxFNQRvs5p4XF9ikopoLnOnPqhtGdx/q5Tm4pnlQ32t85KSz2T6ozFbx7Iydu
+       GN1pXrx7g1uMtwkZ7XerheXN24SYCt6PZtUNYzvLu/ejccvxxkdj/W+toLx746Mkg3fYWnNE
+       e0d5+w5bbjneyq3d/1YKyPu3cjMlrDNgxZXQOymIdQZk67FySmgPIs1YUCunSFJYCypSZwIX
+       XpBrQUkKWN0usA/GMxT86nZOYliv07g/SgUmZr1OJw2sQKzkhpFEiV2BWNLDmupGPMpYCNZU
+       d6HhZw741UiPPfYY8YtReJXiSy65JNpeKODSX375ZfHuEH6HyM033yxeKcbP3sZ9830lgqkG
+       HDp0SADiN+7w0+/8uiT+dYHfhYEtOwF+Vwg/X8qvD+M3//CbjfiAnT59et6gsyaak8gzzzxD
+       O3fuFK8sHR4eFssxsnB8ZPI64LyuJL8FPG5PdkfZq/ywM78lm39x4TN4HglYML50NGXKFPEK
+       0Ouuu46uuuqqKKsRWdk5Ec3ZGn4J8wsvvED79u0T7yrjyPfb3/5WQOfXElx77bVi/alC3Xhd
+       pqeeeor4BTN8cJ1//vkiUvET7jNnzqTLL7+c+LG4fN9yLlo2gHxdaOLEiVYZ23qNk7NRuWin
+       Vah+70ezXZk47C8XosWh3VHXIdYRLerGe5UP0aKhDtFcXCEaRIuGAESzw/WUjReYWmmKmZ0g
+       opnh6C4FQyciWjRmubkioqUTQUSLxjtENES0aMxCRMvOFREtGu8Q0RDRojELEQ0RzYpZEA2i
+       QbRcEMDQaYU65mgQDaJZIQDRrGBGRINoEM0KAYhmBTMiGkSDaFYIQDQrmBHRIBpEs0HggQce
+       EK9Kvf/+++n2228n+Vvngw8+SF/72tfo3nvvpTvuuMNGVQp6H4mPaPxqAX6g+R3veId45I0f
+       0OXH3vg5y7ffflv8XVpaWtAS2Ghc4kVjyCtWrCBeJHV8fDzFvKioiJYuXUrr1q2z0Q8Fvw+I
+       RkQc1fhp8LGxsVSHFxcXi6foEc3MHAMQ7TRHZ1RDNDMjl7MUiHaahjOqIZpBNPMEHCVyVOOz
+       UD7LxNzMLGpENAdPjmr8Oih+vRbmZpZF4+tK2AqbgI1He30jGh7WKGzJbPUvRCtsj3xbB9F8
+       ESGBCQIQzQRFlOFLAKL5IkICEwQgmgmKKMOXAETzRYQEJghANBMUUYYvAYjmiwgJTBCAaCYo
+       ogxfAhDtNCJe5KKmpoYGBgbSoK1Zs4aam5vTPmttbaWWlpbUZ840fMdsU1OTWEOJN16Xqq2t
+       zcjqLLLsqVOnptWJ63P06NG0/fAdu7zU5OrVq8WiFbneIJpDtMbGRmpvb091DHdWbW2t6NTK
+       ykpx2zVLxJuUR35WVVUl0nZ1dYnv+d/u70x0trtO/f39xKLxfvlWcd5kGl4ZhpeahGgO8raM
+       z9TZHNHconFa7sTy8nIhjlenchr+vLOz0zNysQC9vb1nfMf742jT0dGREkRVRFkPPii4zvJA
+       4PwyMt9zzz30+OOPI6K5ocZRNHf0YOl4cw+l2QRRySP309PT4ztsywRy+PYa2mVUw9Dp0TNx
+       EM1rjsbLMXI0c0c3/pujFS81yFt1dXXa8CUjnXtYU41afuk4qs2ZM4f6+vrEsO7eMEfLQDAO
+       ojmHTq9hMlN08hoGOf+SJUsimSPJCMiC8X6c8zOJF6LliWgygjnP5jLN0dyiccfznM1LAK/m
+       Bx06ncJnkh+i5ZFoQc46ef1PFuvAgQNnnAX6DYNBvndL7K4jIprPfbxxGzplh3lFJ+fcjNM5
+       J+Tua2z8vde1tDBnnZnmZV7DNCJaTCNakKiCtMEJ2AokuJU7eN8UVA6IVlDdGd/GQLT49k1B
+       1QyiFVR3xrcxEC2+fVNQNYNoBdWd8W0MRItv3xRUzSBaQXVnfBsD0eLbNwVVs1iJVlBk0Zgz
+       CMTibUJJ6xdbR3jiuJ6yoXMeUYVo0XSW72+d0ew2vqVCtGj6BqK5uEI0iBYNAYhmhyvmaOmc
+       EdGi8Q5DJyJaNGa5uSKiIaLZMA0RDRHNhmcE0SAaRLNCAKJZwZz4iIYViK14hqETKxBDNDsE
+       sAKxFc6JHzqZMlYgjt41iHaaMVYgjlY2iHaaL1YghmjREnCUjhWIo0ONiOZgixWIcywa39GA
+       rbAJRH2jtVJEw60zhS2Zjf6FaIXtkFLrIJoSJiTSJQDRdAkivxIBiKaECYl0CUA0XYLIr0QA
+       oilhQiJdAhBNlyDyKxGAaEqYkEiXAETTJYj8SgQg2mlMplYh5uKcK6g4V8hT6pEsiVRWIT58
+       +HDaasom969Tf4jmEM3EKsS8ZM6ePXvEup6Z1mrS6bBsqxBPmjSJVq1aRQsXLhQrD2da8FZn
+       /2HzQrQsosnopLMKsXMVY2cnhVkPSubPtgqxcx9RLLcN0cISCBDRVFYUdlZDNaIFXUrROTxn
+       WoWY06juXxOdUnZENJ85WthViOUqeF6r2yn1jE8iv1WIpYz8/yDLc5uom1cZEC1DRNNdhVjC
+       ZuF6e3upra2NSkpKjPSjyirEHH2dC9sa2bFGIRAty9Dp7izVVYid/ZEpj9cQ29PTk9aVmYbF
+       bKsQZzoz1XDESFaIFmCOJjuRs8gIJT+TqxDv3r2bhoaGUsNV0HmdX6/6rUJsen9+9VH9HqJl
+       EY2/CroKsXOizv/ONEcLc9bptwrxli1bxOUNd2SMw7U0iKZ6SCKdFgGIpoUPmVUJQDRVUkin
+       RQCiaeFDZlUCEE2VFNJpEYBoWviQWZUARFMlhXRaBCCaFj5kViUA0VRJIZ0WAYimhQ+ZVQnE
+       SjTVSiNdfhKIxduE8hNd+FrbOMLD1y4/cyq9TSg/mxa+1hAtPLtMOSGaBxmIBtHME4Bodphi
+       GcUzOSOimXcPQycimnmrvJgioiGi2TANEQ0RzYZnWN3OizLmaObdQ0RDRDNvFeZoakwR0dQ4
+       BUmFiIaIFsSX0GkhGkQLLU+QjBANogXxJXRaiAbRQssTJCNEg2hBfAmdFqJBtNDyBMkI0SBa
+       EF9Cp4VoEC20PEEyQjQXLb53fu7cufSP//iPNHHixCAskTYLAYh2Gs7f//3f0yc+8Qnxys+P
+       fvSj4v/YzBGAaERUVVVFfX19tG7dOrrqqqvo1ltvpRdffJGefvppuvvuu2nv3r3miCe0JIhG
+       RAMDA/Snf/qnxL9xnnvuueL/f/jDH+j3v/89nXXWWfTKK6/Q5MmTE6qImWZDtNMcZ86cSb/4
+       xS/EX0VFRTQ+Pk6lpaX07W9/mxYsWGCGdoJLgWinO/+RRx6hO++8U0Qx3oqLi+naa6+lJ554
+       IsF6mGs6RDvN8s0336TzzjuPTp48KT555zvfKd7g/Z73vMcc7QSXBNEcnX/DDTfQjh076Oyz
+       z6avf/3rdNtttyVYDbNNh2gOnvxqdp6PXXLJJcSvc8dmjgBEc7H8/Oc/T3/1V39FV155pTnK
+       KMn/4RQ+1cdW2ASifpMQ0/ONaLh/vrAls9W/EK2wPfJtHUTzRYQEJghANBMUUYYvAYjmiwgJ
+       TBCAaCYoogxfAhDNFxESmCAA0UxQRBm+BCCaLyIkMEEAopmgiDJ8CUC004h4ffOamhpxF6xz
+       W7NmDTU3N6d91traSi0tLanPvNLwl1xmY2Mjtbe3U0VFhW9n+CUYHR2lpqYmmjp1alqduD78
+       7EFbWxudOHGCamtrxZrqs2bNou7ubiP79qub3/cQzSGaW4qRkRHRaSxaZWUlyY7mLNypJSUl
+       qc/4eQBOKzeZ9vnnnzfa2e468d0fLFpXVxeVlZWJf/PTVVxf93d+MkT5PUTLIhp/xR1XXl4u
+       JMrUcfx5Z2dnSj7Oxx3P0ZH/84poHO1Wr15NHR0dQpAgm6wHl8sHhzwQ3GWwlA0NDWI/JiJq
+       kDq600K0ABGNpePNPZS6oUqJuJN5WPUbOmWU4uHOb9iW38vhO9OwzekQ0TwODVvGZzoqM83R
+       tm/fnhoSndFNRq26ujpRZHV19RnDFz/RZHKO5qw7SzRnzhzx+B4Pk85NDttbtmwhZ/11IpJu
+       Xlv9G/u7N9wTd69okCmiOYfBAwcO0J49e0TUM30yIDtbRkA5D5PzM7cMUjj3/FFXmjD5IVqW
+       odN5NscT/0xDkVO0hx56KO2MlIv3O/sLOnQ6hfcbzv2+DyNNmDwQLcAcLdtZ56FDh1JDp+yI
+       KCIaRy8+8ZBRzHkWOnv2bHH5o76+Xgyn7jPUMIKYygPRsogm52HOjnXPzfjvMNfRwpx1ZpqX
+       8edLliwRl1F4Xiivo3HdMEdzHSq2jDd1hKKcYARs9W/sTwaCYUPqoAQgWlBiSB+KAEQLhQ2Z
+       ghKAaEGJIX0oAhAtFDZkCkoAogUlhvShCEC0UNiQKSgBiBaUGNKHIgDRQmFDpqAEYiVa0Moj
+       fX4RiMXbhPILmX5tbR3h+jXNrxJ8f4LKr+bo1xai6TP0KgGiuahANIgWDQGIZofrKRszQStN
+       MbMTRDQzHN2lYOhERIvGLDdXRLR0Ioho0XiHiIaIFo1ZiGjZuSKiReMdIhoiWjRmIaIholkx
+       C6JBNIiWCwIYOq1QxxwNokE0KwQgmhXMiGgQDaJZIQDRrGBGRINoEM0KAYhmBTMimgPzyZMn
+       6S/+4i/EmyH5pyhs5ghANBdLXivg5z//uVgz4Mknn6Trr7/eHO0ElwTRiIjfyHjvvffSNddc
+       Q5dddhk98sgj9Mwzz9CKFSvEi497e3sTrIiZpidetGPHjtFFF11Eb7/9Nr3rXe+i4uJi+p//
+       +R964403BOHnnntOvOsWmx6BxIvG+Hbs2EFf/OIX6fjx41RUVETj4+OC6sUXX0z79u3TI4zc
+       ggBEOy3CDTfcQE899RSNjY2JTzi6bdy4kW699VaoYoAARDsN8bXXXhNL/vz3f/+3+GTixIn0
+       +uuv0znnnGMAM4qAaA4HHn74YfrqV79Kb731Fi1YsICeeOIJGGKIAERzgeR1AF5++WUxb+Pl
+       fbCZIQDRXByfffZZ+tu//Vv63ve+Z4YwSlE/GcBV8sK3JernyJUiGp4MKmzRbPQvRCtsh5Ra
+       B9GUMCGRLgGIpksQ+ZUIQDQlTEikSwCi6RJEfiUCEE0JExLpEoBougSRX4kARFPChES6BCCa
+       LkHkVyIA0U5j4nXOa2pqaGBgIA2c15rpra2t1NLSkkrnTuP+3tTa5qOjo9TU1CSeNWhubk7t
+       n/d39OhRamtro5KSktTnXV1d4hZx9+dKZhhOBNEcojU2NlJ7eztVVFSIT0dGRqi2tlZ0Kt9x
+       ITuav5OdJz+rqqoSaeXf9fX1Io/pzV2n/v5+YtFYqrKystTu5IFzxRVXQDRnJ9gwPlunc8e4
+       ReP03Il8syJLlKlT+fPOzk7RoSdOnKCGhgZavXp1Sliv/fL+OE1HR0eaICpiynrwQcF1lgeC
+       zMuyr1q1Svz55ptvQrS4i+aOHiwdb85hyy2GewhevHixb0fL/fT09PgO2zKBHJ69hnaObkND
+       Q+IAwdDp6qE4RDSvOZpzfuWMblx97tC6ujrREr6Bkf8+cOBAaiibNGmS55xKJWr5peGoxo/p
+       9fX1pQ3RLO3KlStp7dq1tHv3bojmBhkH0ZxDp9cwmSmiZRsGMw23fiJl+15GQJ4DcvnO+RnX
+       ce7cuUI+nAx4UIybaHJ+5jybyzbxzjTfcs7fnGeETgRBh06n8M5/ZypHZfjWEV8lr43+zYv7
+       0bxOBoKcdR46dEhEEB6ueH7E8zj3GalKh/il4X3wiYeMYu46OvMjouVJRJPzMGfHuudm/He2
+       62hek3XOE+asM9O8jD9fsmQJdXd3p53pQrQYiuYXSfC9HgEMnXr8kFuRAERTBIVkegQgmh4/
+       5FYkANEUQSGZHgGIpscPuRUJQDRFUEimRwCi6fFDbkUCEE0RFJLpEYBoevyQW5FArERTrDOS
+       5SmBWLxNKE/Zha62jSM8dOXyNKPS3Rt52rbQ1YZoodFlzAjRPNBANIhmngBEs8P0VNSzQCvN
+       MLsTRDSzPLk0DJ2IaOat8mKKiHYmFUQ08+4hoiGimbcKEU2NKSKaGqcgqRDRENGC+BI6LUSD
+       aKHlCZIRokG0IL6ETgvRIFpoeYJkhGgQLYgvodNCNIgWWp4gGSEaRAviS+i0EA2ihZYnSEaI
+       BtGC+BI6LUSDaKHlCZIRonnQuvLKK4mXvMZmjgBEc7H8wx/+QPx+W/4/NnMEINpplsPDwzRl
+       yhTxJkheE4BfFY/NHAGIRkT8HtlvfetbdM8999Ctt95K06dPJxaP1wrgVVi2bdtGN910kznq
+       CSwJohHR66+/LqJZcXExnXXWWSKaFRUV0cmTJ8Xf//Vf/0V86xC28AQg2ml2t99+O23ZsoXG
+       xsZSNHmudv/999Pf/M3fhCeMnIIARDstwpEjR+jCCy8UUUxu559/Pr322mtQxQABiOaAuGjR
+       IvH6do5q5513Hm3cuJFuueUWA5hRBERzOPDrX/+aLr74YhofH6f3v//9xH9jM0MAork4fvaz
+       n6WdO3fSo48+SjfeeKMZyiiF+FTqFDiAgGkCvCySXC5SnAysXr36lPMD0ztEeckjwNcjeYNo
+       yet7qy2GaFZxJ3dnEC25fW+15RDNKu7k7gyiJbfvrbYcolnFndydQbTk9r3VlkM0q7iTuzOI
+       lty+t9pyiGYVd3J3BtGS2/dWWw7RrOJO7s4gWnL73mrLIZpV3MndWU5FGxkZodraWurp6Unr
+       AX7Ura2tjUpKSlKf9/f305w5c1J/V1dXU1dXl3jekrfW1lbxGBxv7u90u3dwcJBqampoYGAg
+       rag1a9ZQc3Nz6jN+/rOpqUk80CK37du3izby5v7eq51edXW2TX4/a9Ys6u7upoqKilQWdz3d
+       aZzfm2bkxzgWonFnVVZWpnVGVVVVqoNYqA0bNqSB5c96e3uFkHv37qU9e/akOp07hjenBH4g
+       sn3PHdTY2Cie6ZQdKw8SWXf5N7dD7tedhuvMG4snpXO2M1MdvNrjbD8fkPJA7OvrS7Hkzzgv
+       p+Wnt/hesIULF4o2uPPr8FHJGzvRuNIMYWhoSHSYu7Nko/jzhoYG4rs2nUc1f+8ELCMef54t
+       T1DRZBQtLy8X4mTqOGdb3PvwysNizJ07NyWL3I/7wGH5ue0dHR1CIo6kbmmlzPX19WnlcVnO
+       /E5GKtKESRM70dxHeiZpsjVW5WjNNGy7h0PZKdki2uzZsz072q9DvCKVqmjONh4+fPiMiOu3
+       bxVGfmUE+T4WornnaM7OZtH4cTc5Z3PPQ5xDRSYpggDxSptpjibnX16RwzmvyjTnlMOaHE4z
+       zVX5ET85/5T1c86x3NHJfRA554nO79zsdDllyx8L0eQ8x2sulCmieXWuFGLz5s1nDBU6EN31
+       ctcp23zLfaDIoX3JkiVnTOblMJlt6PTalxc32V6WWQ7vTgaZpiQ6nPJGNDk/4wgmzygzAXGL
+       xh2aqfO8AOgOndyBR48eTUXaTEORWzRO52yfu24qQ6f7gMomeibRgpyMmJAvVhGNG+QFINNZ
+       Z11dHXH4nzx5cuA5ShB4umed/CYieXYsh8sgE3Cds06+JMRD57x589JOnrJFwSBsVNPGTrRM
+       Q4t7nuSco7CILJ1z87pOZPqs0ys6ua95OedHXtfDVK6leYkmIzKfUcrrdO4one06GrNKzBxN
+       9WhAuvwnkNOIlv/40AJVAhBNlRTSaRGAaFr4kFmVAERTJYV0WgQgmhY+ZFYlANFUSSGdFgGI
+       poUPmVUJQDRVUkinRQCiaeFDZlUCEE2VFNJpEYBoWviQWZUARFMlhXRaBCCaFj5kViUA0VRJ
+       IZ0WAU/RsM6AFlNkzkDgjHUGTp06hQUtFHTxOkoVsiHJaQJYokdRBYimCCpDMoimyA+iKYKC
+       aHqgIJoeP0Q0RX4QTREUIpoeKIimxw8RTZEfRFMEhYimBwqi6fFDRFPkB9EUQSGi6YGaMWOG
+       KODgwYN6BSU0NyKaYsdDNEVQiGh6oCCaHj9ENEV+EE0RFCKaHiiIpscPEU2RH0RTBIWIpgcK
+       ounxQ0RT5AfRFEEhoumBgmh6/BDRFPlBNEVQiGh6oCCaHj9EtCz8+JXvU6dOFSncv3U6v9Pr
+       gmTkhmgZ+vn48ePEy/FMmzaN1q9fT7t27RIp58+fT8uXL6cjR46IBdBKS0uTYYpmKyFaFoAr
+       VqwQK+0VFxeL9Q14O3bsGI2NjdGyZcto3bp1mviTkx2iZelrjmpTpkwRYjk3Fm94eBjRLMBx
+       AtF8YHFU27RpE42Pj4uURUVFtHTpUkSzAJJxUojmA8wd1RDNAhp2OjlEU+AmoxonRTRTAOaR
+       BKIpcOOo5jwZwJmmAjRXEoimyGzRokUi5datWxVzIJmTwAS8TQhCREHgjLcJrV69+tSqVaui
+       2BfKTCgBvIgvoR1vu9kQzTbxhO4PoiW04203G6LZJp7Q/UG0hHa87WZDNNvEE7o/iJbQjrfd
+       bIhmm3hC9wfREtrxtpsN0WwTT+j+IFpCO952s6LTMgsAACAASURBVCGabeIJ3R9ES2jH2242
+       RLNNPKH7y6loIyMjVFtbSz09PWn4Fy9eTG1tbVRSUpL6vL+/n+bMmZP6u7q6mrq6uqisrEx8
+       1traSi0tLeLf7u90+3ZwcJBqampoYGAgrag1a9ZQc3Nz6rPR0VFqamqiLVu2pD7bvn27aCNv
+       7u+92ulVV2fb5PezZs2i7u5uqqioSGVx19MrjUzMZfLmrL8up2z5YyEaN7aysjKtM6qqqlId
+       xELxs5ROsPxZb2+vEJIf2t2zZ08KmmmI3IGNjY3U3t6e6lh5kMi6y7+5HbLz3Gm4zryxeFI6
+       ZzszdZRXe5zt5wNSHoh9fX0plvwZ53UekLwPmdZ9oCRKNG4sgxkaGhId5u4sCYM/b2hoIL5r
+       03lUS5BegLPlyQbZSzQZRcvLy4U47o6X5Tnb4t6HVx6u99y5c1OyyP24ow/Xidve0dFBkyZN
+       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
+       s1++pve+972PPvShD9Gll15KV1xxBU2cODG2CGIrGov04x//mHbv3k179uyhD37wg3TZZZfR
+       zJkz6QMf+ABdcMEF9O53v5vOPffcWAM22fN8wL3xxhv0u9/9jl599VX6t3/7N9q3bx+9+OKL
+       dODAAZo7dy7NmzePPvnJTwoR47TFTrQf/vCH9Nhjj9FPfvITuuGGG+j666+n6upqcSRjy0yA
+       I3tPTw89+eST9MQTT9DVV19NN998M33605+OBbbYiPboo4/Sgw8+SGeffTZ9+ctfFpAmTJgQ
+       C0j5VolTp06Jg/Wb3/wmvfXWW9TY2Ei33HJLTpuRc9F27txJra2tImLxTzl/+Zd/mVMghbbz
+       f/iHfxA/nfGQ29LSQtddd11Ompgz0V5//XUh1k9/+lNau3Ytffazn80JgKTs9O/+7u9o5cqV
+       9PGPf1yId95551ltek5E47sflixZIuYPDzzwgNUGJ31nd9xxB/E8ePPmzeLuE1ubddFYrPvu
+       u4+2bdtGn/rUp2y1E/txEPjRj35ECxcupLvuuotYPBubVdG4UX19ffTd736XLrroIhvtwz4y
+       EPjNb35DN910E82ZM8fKqGJNtNtuu40OHTokro3xhUdsuSfAd6HwNbfp06fTww8/HGmFrIh2
+       ++23Ex9BfIaJLX4E+EyUf2X4xje+EVnlIheN52M8+f/nf/7nxFzBj6y3IiqYf3Hgs9FrrrlG
+       zNui2CIV7Qc/+AE1NTXRz372M3rve98bBIXWyQAABb1JREFURf1RpiEC/IAN/17a1tZGn/nM
+       ZwyV+v/FRCba4cOH6SMf+Qh973vfo6uuusp4xVGgeQL8s19tba347ZR/Sza5RSba5z73OXFn
+       wapVq0zWF2VFTGD16tX0q1/9ir7//e8b3VMkovHlCw7BL7zwgtHKojA7BC6//HIx5eHLH6a2
+       SETjW3ra29vxu6WpXrJcDv8+yj/E861HpjbjorFgfIbJt6pgy18CfIvWn/3ZnwnhTGzGRXv/
+       +98vblH52Mc+ZqJ+KCNHBJ577jlxqxbfXGliMyra448/Lu6BeuaZZ0zUDWXkmABfLeB7A2+8
+       8UbtmhgVje+G5UrxKTK2/CfQ1dVFHDz4rl3dzZhor732mvih/Pe//z3ujNXtlZjk5zt1J02a
+       RAcPHqTzzz9fq1bGRONbsflBku7ubq0KIXO8CNTU1IgHXr70pS9pVcyYaF/4whfE72U8pmMr
+       HAI85+a7oL/zne9oNcqYaPzr/1NPPUUVFRVaFULmeBEYHBwUzxnonn0aEY0f5GXR+AEIbIVH
+       gJ+d5Ye2+cHlsJsR0fr7+8Utwfw0edy3kZER8ZAGPxBTVlZG/DefJfPNf3xz5v33308dHR3i
+       O2z/R4Dv6uBb8CsrK0MjMSIa36HBd87yqXDcN7do/KhfeXk5Lslk6Ti+ZMV34n7+858P3b1G
+       ROMHf4eGhsQDwHHfnKJxXZ3RjecjfPcCR7SHHnpIvGKAj+LR0VHxI3N9fX3a31u2bBHN5ecg
+       OB3n54du+GXKJSUlIlrK8vl3Q361Q3Nzc9wRnVE/vkOaD0b+f9jNiGj33nuveOUmR4e4b87O
+       58sxvMkLzKqiyXayNDxt4EcH5WWdQhSN28kvHbz77rtDd68R0TgK8Jts+EnouG9yTsbvqdi+
+       fXvakKkiGt+ZwmIyfHe04/emFaJoHKH54i33c9jNiGj5GNH46OR689oBcjhzi+Y+cHiIlKKx
+       qM6NpeW3HWUTjR9tk9vixYvFPXs8xMZ9i01Ey9c5Gr++na9881Pbco7lN0dj0RoaGsTR7b5m
+       GGSOlk8nIbGZo+XzWSf/cNzZ2Un8fxbPTzQW0jlHY7mkrEGGznwSLTZnnfl8HU2eUfLw5byO
+       FuSsU871pHQDAwNpo+GaNWvEGWy+Dp2xuY6GXwYyz7L4IMzXyxqyVbH5ZYArxD9BPf300+K1
+       n9j+n0C+i8ZR+tprrxU/QelsRs46uQK4e0OnG+KbN3Z3b+B+tPjKolOz2N2Phjtsdboznnn5
+       Iu273vUu8YKe97znPVqVNDZ0ci3wzIBWX8QucyyfGWBKeAoqdq5oVSi2T0Fxq/Bcp1bfxiZz
+       rJ/rZEp4Uj02rmhVJPZPqnPr8O4NrT7Oeea8ePcGU8LbhHLuilYF8uZtQtxKvB9Nq69zljmv
+       3o/GlPDGx5y5EnrHefnGR24t3mEbus+tZ8zbd9hKUngrt3VnAu8w79/KLVv8la98Rfz6j3UG
+       AjtgJUNBrDMgSWHlFCvOBNpJwa2cIlt/5513iheG8K3fWAsqkBPGExfsWlCSFFa3M+5M4AIL
+       fnU7SQTrdQZ2w1iGxKzXKYlhBWJj7igVlMgViJ1ksKa6kiehE8k11d98803xoHTi1lR3k+Nb
+       wflB5LPPPlu8NZJfPT5hwoTQgJOcke+M5Vfw8/3+b731llgr4JZbbskpEqN32JpoCa/3zZD4
+       5xC+VYXv2q2urqZzzjnHRPEFWwZHLI5e/AZt/kXm6quvFgcrr1sfhy12okkoR44cEe9c4zf+
+       8HORfOsRv9ti5syZ4ubKCy+8kN797ncTP3PIL5hJwsZX8Pmtmr/73e/o1VdfFa/73Ldvn1iN
+       jl+LxQ8p84uN+V1m06ZNixWS2IrmpMSA+W2SL730Eu3fv1/8ysAi8oPLfCTzhcckbLxEOEd2
+       fsUni8TP0vIKgpdeeql4K2OcD7i8EM1Porfffpve8Y53+CXL6+/zvY3/CzMWE9DKnb82AAAA
+       AElFTkSuQmCC
+      </office:binary-data>
+     </draw:image>
+     <draw:contour-polygon svg:width="151px" svg:height="930px" svg:viewBox="0 0 151 930" draw:points="0,0 0,930 151,930 151,0" draw:recreate-on-edit="false"/>
+    </draw:frame><draw:frame draw:style-name="fr1" draw:name="Image1" text:anchor-type="char" svg:x="66.41mm" svg:y="73.17mm" svg:width="108.74mm" svg:height="33.53mm" draw:z-index="2"><draw:image draw:mime-type="image/png">
+      <office:binary-data>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
+      </office:binary-data>
+     </draw:image>
+    </draw:frame></text:p>
+   <text:p text:style-name="P25"/>
+   <text:p text:style-name="P25"><text:soft-page-break/>Лістинг :</text:p>
+   <text:p text:style-name="P27">---lscript.ld---</text:p>
+   <text:p text:style-name="P29"><text:s text:c="5"/>1<text:tab/>MEMORY</text:p>
+   <text:p text:style-name="P29"><text:s text:c="5"/>2<text:tab/>{</text:p>
+   <text:p text:style-name="P29"><text:s text:c="5"/>3<text:tab/><text:tab/>FLASH ( rx )<text:tab/>: ORIGIN = 0x08000000, LENGTH = 1M</text:p>
+   <text:p text:style-name="P29"><text:s text:c="5"/>4<text:tab/><text:tab/>RAM ( rxw )<text:tab/>: ORIGIN = 0x20000000, LENGTH = 128K</text:p>
+   <text:p text:style-name="P29"><text:s text:c="5"/>5<text:tab/>}</text:p>
+   <text:p text:style-name="P29"><text:s text:c="5"/>6<text:tab/>__stack_start = ORIGIN(RAM) + LENGTH(RAM);</text:p>
+   <text:p text:style-name="P29"><text:s text:c="5"/>7<text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="5"/>8<text:tab/>/*ENTRY(__hard_reset__);*/</text:p>
+   <text:p text:style-name="P29"><text:s text:c="5"/>9<text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>10<text:tab/>SECTIONS</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>11<text:tab/>{</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>12<text:tab/> <text:s text:c="3"/>.text :</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>13<text:tab/> <text:s text:c="3"/>{</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>14<text:tab/> <text:s text:c="7"/>. = ALIGN(4);</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>15<text:tab/> <text:s text:c="7"/>KEEP(*(.interrupt_vector))</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>16<text:tab/> <text:s text:c="7"/>*(.text)</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>17<text:tab/> <text:s text:c="7"/>*(.text*)</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>18<text:tab/> <text:s text:c="7"/>*(.rodata)</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>19<text:tab/> <text:s text:c="7"/>*(.rodata*)</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>20<text:tab/> <text:s text:c="7"/>. = ALIGN(4);</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>21<text:tab/> <text:s text:c="3"/>} &gt; FLASH</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>22<text:tab/>}</text:p>
+   <text:p text:style-name="P26"/>
+   <text:p text:style-name="P27">---Makefile---</text:p>
+   <text:p text:style-name="P29"><text:s text:c="5"/>1<text:tab/>PATH := ${PATH}:/opt/xPacks/qemu-arm/2.8.0-12/bin:\</text:p>
+   <text:p text:style-name="P29"><text:s text:c="5"/>2<text:tab/>/opt/gcc-arm-9.2-2019.12-x86_64-arm-none-eabi/bin</text:p>
+   <text:p text:style-name="P29"><text:s text:c="5"/>3<text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="5"/>4<text:tab/>SDK_PREFIX?=arm-none-eabi-</text:p>
+   <text:p text:style-name="P29"><text:s text:c="5"/>5<text:tab/>CC = $(SDK_PREFIX)gcc</text:p>
+   <text:p text:style-name="P29"><text:s text:c="5"/>6<text:tab/>LD = $(SDK_PREFIX)ld</text:p>
+   <text:p text:style-name="P29"><text:s text:c="5"/>7<text:tab/>SIZE = $(SDK_PREFIX)size</text:p>
+   <text:p text:style-name="P29"><text:s text:c="5"/>8<text:tab/>OBJCOPY = $(SDK_PREFIX)objcopy</text:p>
+   <text:p text:style-name="P29"><text:s text:c="5"/>9<text:tab/>QEMU = qemu-system-gnuarmeclipse</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>10<text:tab/>BOARD ?= STM32F4-Discovery</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>11<text:tab/>MCU=STM32F407VG</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>12<text:tab/>TARGET=firmware</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>13<text:tab/>CPU_CC=cortex-m4</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>14<text:tab/>TCP_ADDR=1234</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>15<text:tab/>#################</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>16<text:tab/># CFLAGS</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>17<text:tab/>CFLAGS = -O0 -g3 -Wall</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>18<text:tab/>##################</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>19<text:tab/># LDFLAGS</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>20<text:tab/>LDFLAGS = -Wall --specs=nosys.specs -nostdlib -lgcc <text:s/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>21<text:tab/>##################</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>22<text:tab/># PATH</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>23<text:tab/>APP_PATH=$(abspath ./)</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>24<text:tab/>##################</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>25<text:tab/># add here GNU ASSEMBLY SOURCES .S</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>26<text:tab/>GASSRC += print.S</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>27<text:tab/>GASSRC += start.S</text:p>
+   <text:p text:style-name="P29"><text:soft-page-break/><text:s text:c="4"/>28<text:tab/>##################</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>29<text:tab/>SOBJS = $(GASSRC:.S=.o)</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>30<text:tab/>COBJS = $(patsubst .c,%.o,$(APP_SRC))</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>31<text:tab/>.PHONY: all clean</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>32<text:tab/># Path to directories containing application source </text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>33<text:tab/>vpath % $(APP_PATH)</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>34<text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>35<text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>36<text:tab/>#----------------------------------Build--------------------------------</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>37<text:tab/>all: $(SOBJS) $(TARGET).elf $(TARGET).bin</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>38<text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>39<text:tab/>#object_files</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>40<text:tab/>%.o: %.S</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>41<text:tab/><text:tab/>$(CC) -g -x assembler-with-cpp <text:s/>$(CFLAGS) -mcpu=$(CPU_CC) -c -o $@ $^</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>42<text:tab/><text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>43<text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>44<text:tab/>#executable_&amp;_linkable_file</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>45<text:tab/>$(TARGET).elf: $(SOBJS) </text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>46<text:tab/><text:tab/>$(CC) $^ -mcpu=$(CPU_CC) $(LDFLAGS) -T./lscript.ld -o $@</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>47<text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>48<text:tab/>#binary_file</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>49<text:tab/>$(TARGET).bin: $(TARGET).elf</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>50<text:tab/><text:tab/>$(OBJCOPY) -O binary -F elf32-littlearm $(TARGET).elf $(TARGET).bin</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>51<text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>52<text:tab/>#-----------------------------------QEMU--------------------------------</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>53<text:tab/>qemu:</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>54<text:tab/><text:tab/>$(QEMU) <text:s/>--verbose --verbose --board $(BOARD) --mcu $(MCU) -d unimp,guest_errors --image $(TARGET).elf --semihosting-config enable=on,target=native -gdb tcp::$(TCP_ADDR) -S</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>55<text:tab/>qemu_run:</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>56<text:tab/><text:tab/>$(QEMU) <text:s/>--verbose --verbose --board $(BOARD) --mcu $(MCU) -d unimp,guest_errors --image $(TARGET).bin --semihosting-config enable=on,target=native</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>57<text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>58<text:tab/>clean:</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>59<text:tab/><text:tab/>-rm *.o</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>60<text:tab/><text:tab/>-rm *.elf</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>61<text:tab/><text:tab/>-rm *.bin</text:p>
+   <text:p text:style-name="P29"/>
+   <text:p text:style-name="P27">---start.S---</text:p>
+   <text:p text:style-name="P29"><text:s text:c="5"/>1<text:tab/>.syntax unified</text:p>
+   <text:p text:style-name="P29"><text:s text:c="5"/>2<text:tab/>.cpu cortex-m4</text:p>
+   <text:p text:style-name="P29"><text:s text:c="5"/>3<text:tab/>.thumb</text:p>
+   <text:p text:style-name="P29"><text:s text:c="5"/>4<text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="5"/>5<text:tab/>.global vtable</text:p>
+   <text:p text:style-name="P29"><text:s text:c="5"/>6<text:tab/>.global __hard_reset__</text:p>
+   <text:p text:style-name="P29"><text:s text:c="5"/>7<text:tab/>.extern printf</text:p>
+   <text:p text:style-name="P29"><text:s text:c="5"/>8<text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="5"/>9<text:tab/>.type vtable, %object</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>10<text:tab/>.type __hard_reset__, %function</text:p>
+   <text:p text:style-name="P29"><text:soft-page-break/><text:s text:c="4"/>11<text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>12<text:tab/>.section .interrupt_vector</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>13<text:tab/>vtable:</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>14<text:tab/><text:tab/>.word __stack_start</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>15<text:tab/><text:tab/>.word __hard_reset__+1</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>16<text:tab/><text:tab/>.size vtable, .-vtable</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>17<text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>18<text:tab/>.section .rodata</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>19<text:tab/><text:tab/>data: .asciz &quot;lab4_P1 started!\n&quot;</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>20<text:tab/><text:tab/>endofprogram: .asciz &quot;Done.&quot;</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>21<text:tab/><text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>22<text:tab/><text:tab/>X1: .quad 0x0000000080000000</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>23<text:tab/><text:tab/>X2: .quad 0x0000000080000000</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>24<text:tab/><text:tab/>X3: .quad 0x0000000080000000 //для ДК змінить знаки, додать 1</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>25<text:tab/><text:tab/>X4: .quad 0x0000000080000000 //&lt;-- (-24) ДК (доповняльний код)</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>26<text:tab/><text:tab/>RS: .quad 0x0000000000000000</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>27<text:tab/><text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>28<text:tab/>.section .text</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>29<text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>30<text:tab/>__hard_reset__:</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>31<text:tab/><text:tab/>bl part1</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>32<text:tab/><text:tab/>ldr r0, =endofprogram</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>33<text:tab/> <text:tab/>bl dbgput_line</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>34<text:tab/><text:tab/>end: </text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>35<text:tab/><text:tab/><text:tab/>b end</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>36<text:tab/><text:tab/>;.size __hard_reset__, .-__hard_reset__</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>37<text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>38<text:tab/><text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>39<text:tab/>part1:</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>40<text:tab/><text:tab/>push {lr}</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>41<text:tab/><text:tab/>ldr r0, =data</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>42<text:tab/><text:tab/>bl dbgput_line</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>43<text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>44<text:tab/><text:tab/>ldr r0, =X1</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>45<text:tab/><text:tab/>ldm r0, {r2, r3} //r2 - молодші, r3 - старші</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>46<text:tab/><text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>47<text:tab/><text:tab/>ldr r0, =X2</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>48<text:tab/><text:tab/>ldm r0, {r4, r5} //аналогічно</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>49<text:tab/><text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>50<text:tab/><text:tab/>ldr r0, =X3</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>51<text:tab/><text:tab/>ldm r0, {r6, r7}</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>52<text:tab/><text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>53<text:tab/><text:tab/>ldr r0, =X4</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>54<text:tab/><text:tab/>ldm r0, {r8, r9} </text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>55<text:tab/><text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>56<text:tab/><text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>57<text:tab/><text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>58<text:tab/><text:tab/>adds r2, r4 // X1+X2</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>59<text:tab/><text:tab/>adc r3,<text:tab/>r5</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>60<text:tab/><text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>61<text:tab/><text:tab/>adds r2, r6 //(X1+X2)+X3</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>62<text:tab/><text:tab/>adc r3, r7</text:p>
+   <text:p text:style-name="P29"><text:soft-page-break/><text:s text:c="4"/>63<text:tab/><text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>64<text:tab/><text:tab/>lsls r2, #1 <text:s/>// 2*(X1+X2+X3)</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>65<text:tab/><text:tab/>lsl r3, #1</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>66<text:tab/><text:tab/>IT CS</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>67<text:tab/><text:tab/>addcs r3, #1 //if carry than add 1 to shifted reg</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>68<text:tab/><text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>69<text:tab/><text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>70<text:tab/><text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>71<text:tab/><text:tab/>adds r8, #1 // X4+1</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>72<text:tab/><text:tab/>adc r9,<text:tab/>#0</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>73<text:tab/><text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>74<text:tab/><text:tab/>asrs r9, #1</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>75<text:tab/><text:tab/>lsr r8, #1 <text:s/>// (X4+1)/2</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>76<text:tab/><text:tab/>ldr r0, =0x80000000</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>77<text:tab/><text:tab/>IT CS</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>78<text:tab/><text:tab/>orrcs r8, r0 //if carry than shift in 1 from other side</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>79<text:tab/><text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>80<text:tab/><text:tab/>asrs r9, #1</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>81<text:tab/><text:tab/>lsr r8, #1 <text:s/>// (X4+1)/4</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>82<text:tab/><text:tab/>ldr r0, =0x80000000</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>83<text:tab/><text:tab/>IT CS</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>84<text:tab/><text:tab/>orrcs r8, r0 </text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>85<text:tab/><text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>86<text:tab/><text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>87<text:tab/><text:tab/><text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>88<text:tab/><text:tab/>subs r2, r8 // P1-P2 = 2*(X1+X2+X3) - (X4+1)/4</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>89<text:tab/><text:tab/>sbc r3,<text:tab/>r9</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>90<text:tab/><text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>91<text:tab/><text:tab/>ITT VS</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>92<text:tab/><text:tab/>nopvs</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>93<text:tab/><text:tab/>blvs check</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>94<text:tab/><text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>95<text:tab/><text:tab/>ITT VC</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>96<text:tab/><text:tab/>nopvc</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>97<text:tab/><text:tab/>blvc branch</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>98<text:tab/><text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>99<text:tab/><text:tab/>pop {pc}</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>100<text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>101<text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>102<text:tab/>check:</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>103<text:tab/><text:tab/>asrs r3, #1</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>104<text:tab/><text:tab/>lsr r2, #1</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>105<text:tab/><text:tab/>ldr r0, =0x80000000</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>106<text:tab/><text:tab/>IT CS</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>107<text:tab/><text:tab/>orrcs r2, r0</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>108<text:tab/><text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>109<text:tab/><text:tab/>orr r3, r0</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>110<text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>111<text:tab/>branch:</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>112<text:tab/><text:tab/>cmp r2, #0</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>113<text:tab/><text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>114<text:tab/><text:tab/>ITT EQ</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>115<text:tab/><text:tab/>nopeq</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>116<text:tab/><text:tab/>beq sethigher</text:p>
+   <text:p text:style-name="P29"><text:soft-page-break/><text:s text:c="3"/>117<text:tab/><text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>118<text:tab/><text:tab/>ITT NE</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>119<text:tab/><text:tab/>nopne</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>120<text:tab/><text:tab/>bne addtohigher</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>121<text:tab/><text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>122<text:tab/>sethigher:</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>123<text:tab/><text:tab/>ldr r0, =0xFD500000 //8106 in hex shifted</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>124<text:tab/><text:tab/>mov r2, r0 <text:tab/><text:tab/><text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>125<text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>126<text:tab/>addtohigher:</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>127<text:tab/><text:tab/>ldr r0, =8106</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>128<text:tab/><text:tab/>add r3, r0</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>129<text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>130<text:tab/>part5:</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>131<text:tab/>part6:</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>132<text:tab/><text:tab/>asrs r3, #1</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>133<text:tab/><text:tab/>lsr r2, #1</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>134<text:tab/><text:tab/>ldr r0, =0x80000000</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>135<text:tab/><text:tab/>IT CS</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>136<text:tab/><text:tab/>orrcs r2, r0</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>137<text:tab/><text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>138<text:tab/>save:</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>139<text:tab/><text:tab/>//ITT VS</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>140<text:tab/><text:tab/>//ldr r0, =RS</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>141<text:tab/><text:tab/>//stm r0, {r2, r3}</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>142<text:tab/><text:tab/>//str r2, [r0]</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>143<text:tab/><text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>144<text:tab/><text:tab/><text:tab/><text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>145<text:tab/><text:tab/>bx lr</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>146<text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>147<text:tab/><text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>148<text:tab/>//---------------Підпрограма 1------------------</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>149<text:tab/>part21:</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>150<text:tab/><text:tab/>push {lr}<text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>151<text:tab/><text:tab/>ldr r0, =0x2A</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>152<text:tab/><text:tab/>lsl r0, #2</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>153<text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>154<text:tab/>strange_return1:<text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>155<text:tab/><text:tab/>add r0, #1</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>156<text:tab/><text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>157<text:tab/><text:tab/>IT CS</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>158<text:tab/><text:tab/>bcs branch1</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>159<text:tab/><text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>160<text:tab/><text:tab/>IT CC</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>161<text:tab/><text:tab/>bcc branch2</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>162<text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>163<text:tab/>branch1:</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>164<text:tab/><text:tab/>add r0, #1</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>165<text:tab/><text:tab/>b block2</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>166<text:tab/><text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>167<text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>168<text:tab/>branch2:</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>169<text:tab/><text:tab/>add r0, #2</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>170<text:tab/><text:tab/>lsl r0, #1</text:p>
+   <text:p text:style-name="P29"><text:soft-page-break/><text:s text:c="3"/>171<text:tab/><text:tab/>b block2</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>172<text:tab/><text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>173<text:tab/>block2:</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>174<text:tab/><text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>175<text:tab/><text:tab/>IT VS</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>176<text:tab/><text:tab/>bvs strange_return1</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>177<text:tab/><text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>178<text:tab/><text:tab/>add r0, #1</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>179<text:tab/><text:tab/>pop {pc}</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>180<text:tab/>//---------------------------------------------<text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>181<text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>182<text:tab/>//---------------Підпрограма 2------------------</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>183<text:tab/>part22:</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>184<text:tab/><text:tab/>push {lr}<text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>185<text:tab/><text:tab/>add r0, #1</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>186<text:tab/><text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>187<text:tab/><text:tab/>IT VC </text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>188<text:tab/><text:tab/>bvc branch12</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>189<text:tab/><text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>190<text:tab/><text:tab/>IT VS </text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>191<text:tab/><text:tab/>bvs branch22</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>192<text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>193<text:tab/>branch12:</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>194<text:tab/><text:tab/>add r0, #1</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>195<text:tab/><text:tab/>IT VC </text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>196<text:tab/><text:tab/>bvc part22</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>197<text:tab/><text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>198<text:tab/>branch22:<text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>199<text:tab/><text:tab/>mov r0, r2</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>200<text:tab/><text:tab/>add r0, #1</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>201<text:tab/><text:tab/>pop {pc}</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>202<text:tab/><text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>203<text:tab/>//---------------------------------------------</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>204<text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>205<text:tab/>//---------------Підпрограма 3------------------</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>206<text:tab/>part23:</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>207<text:tab/><text:tab/>push {lr}<text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>208<text:tab/><text:tab/>add r0, #1</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>209<text:tab/><text:tab/>add r0, #1</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>210<text:tab/><text:tab/>pop {pc}</text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>211<text:tab/><text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>212<text:tab/>//---------------------------------------------<text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="3"/>213<text:tab/><text:tab/></text:p>
+   <text:p text:style-name="P29"/>
+   <text:p text:style-name="P27">---print.S---</text:p>
+   <text:p text:style-name="P29"/>
+   <text:p text:style-name="P29"><text:s text:c="5"/>1<text:tab/>.thumb</text:p>
+   <text:p text:style-name="P29"><text:s text:c="5"/>2<text:tab/>.syntax unified</text:p>
+   <text:p text:style-name="P29"><text:s text:c="5"/>3<text:tab/>.cpu cortex-m4</text:p>
+   <text:p text:style-name="P29"><text:s text:c="5"/>4<text:tab/>#define SEMIHOSTING_SYS_WRITE0 <text:s/>#0x04 <text:tab/>//Syscall</text:p>
+   <text:p text:style-name="P29"><text:s text:c="5"/>5<text:tab/>#define SEMIHOSTING #0xAB<text:tab/> <text:tab/><text:tab/><text:tab/>//Supervisor call number </text:p>
+   <text:p text:style-name="P29"><text:s text:c="5"/>6<text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="5"/>7<text:tab/>.section .data</text:p>
+   <text:p text:style-name="P29"><text:soft-page-break/><text:s text:c="5"/>8<text:tab/> <text:s text:c="3"/>str_hex: .asciz &quot;0xXXXXXXXX\n&quot;<text:tab/><text:tab/>//?????????????????????</text:p>
+   <text:p text:style-name="P29"><text:s text:c="5"/>9<text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>10<text:tab/>.text</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>11<text:tab/>.global dbgput_line</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>12<text:tab/>.global dbgput</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>13<text:tab/>.global newline</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>14<text:tab/>.global dbgput_num</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>15<text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>16<text:tab/>// param: @str</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>17<text:tab/>dbgput:</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>18<text:tab/> <text:s text:c="3"/>push {lr}</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>19<text:tab/> <text:s text:c="3"/>mov r1, r0 <text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/>//Arg to syscall</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>20<text:tab/> <text:s text:c="3"/>mov r0, SEMIHOSTING_SYS_WRITE0 <text:s/><text:tab/>//Pass syscall</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>21<text:tab/> <text:s text:c="3"/>bkpt SEMIHOSTING<text:tab/><text:tab/><text:tab/><text:tab/><text:tab/>//Supervisor call</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>22<text:tab/> <text:s text:c="3"/>pop {pc}</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>23<text:tab/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>24<text:tab/>_newline_sym: .asciz &quot;\n\r&quot;<text:tab/><text:tab/><text:tab/><text:tab/>//Newline</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>25<text:tab/>.align 4</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>26<text:tab/>dbgput_line:</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>27<text:tab/> <text:s text:c="3"/>push {lr}</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>28<text:tab/> <text:s text:c="3"/>mov r1, r0 <text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/>//Arg to syscall</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>29<text:tab/> <text:s text:c="3"/>mov r0, SEMIHOSTING_SYS_WRITE0 <text:s/><text:tab/>//Pass syscall</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>30<text:tab/> <text:s text:c="3"/>bkpt SEMIHOSTING<text:tab/><text:tab/><text:tab/><text:tab/><text:tab/>//Supervisor call</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>31<text:tab/> <text:s text:c="3"/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>32<text:tab/> <text:s text:c="3"/>ldr r1,=_newline_sym<text:tab/><text:tab/><text:tab/><text:tab/>//Arg to syscall</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>33<text:tab/> <text:s text:c="3"/>mov r0, SEMIHOSTING_SYS_WRITE0 <text:s/><text:tab/>//Pass syscall</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>34<text:tab/> <text:s text:c="3"/>bkpt SEMIHOSTING<text:tab/><text:tab/><text:tab/><text:tab/><text:tab/>//Supervisor call</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>35<text:tab/> <text:s text:c="3"/>pop {pc}</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>36<text:tab/>newline:</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>37<text:tab/> <text:s text:c="3"/>push {lr}</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>38<text:tab/> <text:s text:c="3"/>ldr r1,=_newline_sym<text:tab/><text:tab/><text:tab/><text:tab/>//Arg to syscall</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>39<text:tab/> <text:s text:c="3"/>mov r0, SEMIHOSTING_SYS_WRITE0 <text:s/><text:tab/>//Pass syscall</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>40<text:tab/> <text:s text:c="3"/>bkpt SEMIHOSTING<text:tab/><text:tab/><text:tab/><text:tab/><text:tab/>//Supervisor call</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>41<text:tab/> <text:s text:c="3"/>pop {pc}</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>42<text:tab/>dbgput_num:</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>43<text:tab/> <text:s text:c="3"/>push {lr}</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>44<text:tab/>//----------------------------------</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>45<text:tab/> <text:s text:c="3"/>mov r2, #9<text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/>//Other syscall ?</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>46<text:tab/> <text:s text:c="3"/>mov r3, #0x0000000F<text:tab/><text:tab/><text:tab/><text:tab/><text:tab/>//Mask</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>47<text:tab/> <text:s text:c="3"/>ldr r1, =str_hex <text:tab/><text:tab/><text:tab/><text:tab/><text:tab/>//Mask ?</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>48<text:tab/> <text:s text:c="3"/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>49<text:tab/> <text:s text:c="3"/>next:</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>50<text:tab/> <text:s text:c="7"/>push {r0}</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>51<text:tab/> <text:s text:c="7"/>and r0, r3</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>52<text:tab/> <text:s text:c="7"/>add r0, #48</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>53<text:tab/> <text:s text:c="7"/>cmp r0, #58</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>54<text:tab/> <text:s text:c="7"/>blo store</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>55<text:tab/> <text:s text:c="7"/>add r0, #7</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>56<text:tab/> <text:s text:c="3"/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>57<text:tab/> <text:s text:c="3"/>store:</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>58<text:tab/> <text:s text:c="7"/>strb r0, [r1, r2]</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>59<text:tab/> <text:s text:c="7"/>pop {r0}</text:p>
+   <text:p text:style-name="P29"><text:soft-page-break/><text:s text:c="4"/>60<text:tab/> <text:s text:c="7"/>lsr r0, r0, #4</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>61<text:tab/> <text:s text:c="7"/>sub r2, #1</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>62<text:tab/> <text:s text:c="7"/>cmp r2, #2</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>63<text:tab/> <text:s text:c="7"/>bge next</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>64<text:tab/> <text:s text:c="7"/></text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>65<text:tab/>//----------------------------------</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>66<text:tab/> <text:s text:c="7"/>ldr r1, =str_hex<text:tab/><text:tab/><text:tab/><text:tab/>//Arg to syscall</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>67<text:tab/> <text:s text:c="7"/>mov r0, SEMIHOSTING_SYS_WRITE0 <text:tab/>//Pass syscasll</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>68<text:tab/> <text:s text:c="7"/>bkpt SEMIHOSTING <text:tab/><text:tab/><text:tab/><text:tab/>//Supervisor call</text:p>
+   <text:p text:style-name="P29"><text:s text:c="4"/>69<text:tab/> <text:s text:c="7"/>pop {pc}</text:p>
+   <text:p text:style-name="P28"/>
+   <text:p text:style-name="P28"/>
+  </office:text>
+ </office:body>
+</office:document>
